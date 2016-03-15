@@ -1,0 +1,57 @@
+{
+  "name": "react-imageengine",
+  "version": "0.0.1",
+  "description": "ImageEngine component for ReactJS",
+  "main": "lib/ImageEngine.js",
+  "author": "vishnuvardhana",
+ "homepage": "www.scientiamobile.com/page/imageengine",
+  "dependencies": {
+    "classnames": "^2.1.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.6.0",
+    "eslint-plugin-react": "^3.5.1",
+    "gulp": "^3.9.0",
+    "react": "^0.14.0",
+    "react-component-gulp-tasks": "^0.7.6",
+    "react-dom": "^0.14.0"
+  },
+  "peerDependencies": {
+    "react": "^0.14.0"
+  },
+  "browserify-shim": {
+    "react": "global:React"
+  },
+  "scripts": {
+    "build": "gulp clean && NODE_ENV=production gulp build",
+    "examples": "gulp dev:server",
+    "lint": "eslint ./; true",
+    "publish:site": "NODE_ENV=production gulp publish:examples",
+    "release": "NODE_ENV=production gulp release",
+    "start": "gulp dev",
+    "test": "echo \"no tests yet\" && exit 0",
+    "watch": "gulp watch:lib"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-imageengine",
+    "images",
+    "performance",
+    "webperf",
+    "responsive",
+    "adaptive",
+    "adaptive-images",
+    "mobile",
+    "mobile images",
+    "optimize",
+    "optimize images",
+    "resize",
+    "resize images",
+    "responsive images",
+    "cdn",
+    "image cdn",
+    "wurfl"
+  ]
+}
