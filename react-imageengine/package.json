@@ -1,6 +1,6 @@
 {
   "name": "react-imageengine",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "ImageEngine component for ReactJS",
   "main": "lib/ImageEngine.js",
   "author": "vishnuvardhana",

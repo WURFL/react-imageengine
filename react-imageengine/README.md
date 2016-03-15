@@ -38,9 +38,6 @@ npm install react-imageengine --save
 
 ## Usage
 
-__EXPLAIN USAGE HERE__
-
-
 
 ```
 var ImageEngine = require('react-imageengine');
@@ -56,6 +53,9 @@ Check the [ImageEngine Documentation](https://docs.scientiamobile.com/documentat
 ##  Registered user 
 
 *After Installation find RegistrationDetails.js file inside ('yourproject/node_modules/react-imageengine/RegistrationDetails.js')
+
+
+
 *Edit 
 
 ```
@@ -71,5 +71,5 @@ var  RegistrationDetails ={
 
 
 
-Copyright (c) 2016 .
+
 
