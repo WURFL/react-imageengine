@@ -40,11 +40,18 @@ npm install react-imageengine --save
 
 __EXPLAIN USAGE HERE__
 
+
+
 ```
 var ImageEngine = require('react-imageengine');
 
 <ImageEngine ImgSrc={"http://Your-Host-image.jpg"} h={20} w={30}/>
 ```
+
+
+Note : ImgSrc parameter is compulsory other parameters are optional 
+
+Check the [ImageEngine Documentation](https://docs.scientiamobile.com/documentation/image-engine/image-engine-getting-started?utm_source=npmjs.com&utm_medium=page&utm_term=ember-addon&utm_campaign=ember-addon) for the list of available settings.
 
 ##  Registered user 
 
