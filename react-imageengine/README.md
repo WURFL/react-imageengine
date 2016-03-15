@@ -1,6 +1,4 @@
-# ImageEngine
 
-__COMPONENT DESCRIPTION GOES HERE__
 
 # ImageEngine
 
