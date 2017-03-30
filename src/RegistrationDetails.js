@@ -1,6 +1,6 @@
 var  RegistrationDetails ={
   "token":"",
-  "is_lite":true  
+  "is_lite":false  
     
 }
 
